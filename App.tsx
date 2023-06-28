@@ -78,7 +78,7 @@ function MainApp() {
 }
 
 export default function App() {
-  useStorageDelete();
+  // useStorageDelete();
   const user = useUser();
 
   return (
